@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 60b1d95685fe98f438a3b43e9dccc1df, type: 3}
+  m_Name: WaterTileData
+  m_EditorClassIdentifier: 
+  <SpringTile>k__BackingField: {fileID: 0}
+  <SummerTile>k__BackingField: {fileID: 0}
+  <AutumnTile>k__BackingField: {fileID: 0}
+  <WinterTile>k__BackingField: {fileID: 0}

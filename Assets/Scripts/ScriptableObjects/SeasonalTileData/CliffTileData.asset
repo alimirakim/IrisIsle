@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 60b1d95685fe98f438a3b43e9dccc1df, type: 3}
+  m_Name: CliffTileData
+  m_EditorClassIdentifier: 
+  <SpringTile>k__BackingField: {fileID: 11400000, guid: afb2ffa70f7b2774ab015d0a36daa1fa, type: 2}
+  <SummerTile>k__BackingField: {fileID: 11400000, guid: 79a5c853424b5ff479439a655ace86af, type: 2}
+  <AutumnTile>k__BackingField: {fileID: 11400000, guid: ec27b951b5c70a845861d0a5bf474e25, type: 2}
+  <WinterTile>k__BackingField: {fileID: 11400000, guid: 297ae7fd401032d4aaa8292b0b3e80ed, type: 2}

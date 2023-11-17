@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - LightScreen
+  - Tree
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - Background
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ocean
+    uniqueID: 3359099759
+    locked: 0
+  - name: Ground
+    uniqueID: 1874945977
+    locked: 0
+  - name: Cliff
+    uniqueID: 382671803
+    locked: 0
+  - name: Water
+    uniqueID: 3337826167
+    locked: 0
+  - name: Plants
+    uniqueID: 2549737981
+    locked: 0
+  - name: Fruit
+    uniqueID: 1286576943
+    locked: 0
+  - name: Entrance
+    uniqueID: 4060787099
+    locked: 0
+  - name: Player
+    uniqueID: 709317381
+    locked: 0
+  - name: UI
+    uniqueID: 3832712219
+    locked: 0
+  - name: Particles
+    uniqueID: 322392497
+    locked: 0
+  - name: Lighting
+    uniqueID: 3351233719
+    locked: 0
